@@ -35,6 +35,6 @@ do {
 const numbers = [1, 3, 5, 7, 9, 11];
 
 for (let index=0; index < numbers.length; index++){
-    const element = numbers[index]
+    const element = numbers[3]
     console.log(element)
 }
